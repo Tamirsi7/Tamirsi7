@@ -18,10 +18,9 @@ Currently a **VC Analyst at Cactus Capital** and a **CS & Psychology student at 
 
 | Project | What It Does | Stack |
 |---|---|---|
-| [🌵 CactuSync](https://github.com/Tamirsi7/CactuSync) | Group availability scheduler - paint your free time, see the overlap | React · Supabase · Lovable AI |
 | [🔗 IntegrationHub](https://github.com/Tamirsi7/IntegrationHub-Mockup) | High-fidelity IAM platform prototype with OAuth wizard & integration gallery | React · TypeScript · Tailwind |
 | [🤖 API Integration Agent](https://github.com/Tamirsi7/API-Integration-Multi-Agent) | Multi-agent system that researches SaaS APIs and outputs engineering-grade specs to Notion | Python · Claude · Notion API |
-
+| [🌵 CactuSync](https://github.com/Tamirsi7/CactuSync) | Group availability scheduler - paint your free time, see the overlap | React · Supabase · Lovable AI |
 ---
 
 ### How I Think About PM
